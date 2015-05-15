@@ -1,4 +1,4 @@
 # Shape-Drawer
 Test applications
 
-to start application run composer update
+Before start application run composer update
